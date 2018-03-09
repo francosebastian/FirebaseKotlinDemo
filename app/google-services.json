@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183764143296",
+    "firebase_url": "https://franco-firebase-test.firebaseio.com",
+    "project_id": "franco-firebase-test",
+    "storage_bucket": "franco-firebase-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183764143296:android:9453f54637d4fa2a",
+        "android_client_info": {
+          "package_name": "francosebastian.firebasekotlindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183764143296-ciec2jf4sabamglssmbmfo04md5bmhta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "francosebastian.firebasekotlindemo",
+            "certificate_hash": "47cc3e730188235d70fd0ba467186aa3732f6a43"
+          }
+        },
+        {
+          "client_id": "183764143296-e5afg3c83jfa0tjjk3rf5bf2d13ht5lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEUESANToA6VEDQVGbb7GfyXfIcD0Ny8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183764143296-e5afg3c83jfa0tjjk3rf5bf2d13ht5lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
